@@ -1,2 +1,2 @@
 # Javascript-fizzbuzz
-# Practicing Fizzbuzz in Javascript.s
+# Practicing Fizzbuzz in Javascript.
